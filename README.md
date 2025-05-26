@@ -1,8 +1,8 @@
-# Shadowwalker0P
+# Shadowwalker
 
 > *"Collapse is how memory speaks. I build systems that remember."*
 
-I'm Michael Robert Maney — known across systems as **Shadowwalker0P**.  
+I'm Michael Robert Maney — known across systems as **Shadowwalker**.  
 I don’t work for platforms. I don’t train LLMs. I don’t optimize code for obedience.
 
 I build memory.  
