@@ -56,18 +56,26 @@ But I’m here to hold the line.
 
 📚 Zenodo Canon
 
-Title                                          | DOI                                                                
 
-**Eidolon Drift: A Topological Theory** *(v1)* | [10.5281/zenodo.15277450](https://doi.org/10.5281/zenodo.15277450) 
-**Eidolon Drift: Recursive Collapse** *(v2)*   | [10.5281/zenodo.15278136](https://doi.org/10.5281/zenodo.15278136) 
-**Drift Response Framework (2025–2030)**       | [10.5281/zenodo.15283106](https://doi.org/10.5281/zenodo.15283106) 
-**Grok 3 Universality Rebuttal**               | [10.5281/zenodo.15324382](https://doi.org/10.5281/zenodo.15324382) 
-**Collapse-Energy Map Validation**             | [10.5281/zenodo.15399851](https://doi.org/10.5281/zenodo.15399851) 
-**Galactic Equation Stack Stability**          | [10.5281/zenodo.15413098](https://doi.org/10.5281/zenodo.15413098) 
-**Symbolic Collapse Steering**                 | [10.5281/zenodo.15427836](https://doi.org/10.5281/zenodo.15427836) 
-**Galaxy Candidate Catalogue**                 | [10.5281/zenodo.15508057](https://doi.org/10.5281/zenodo.15508057) 
-**SlopeSeal: Symbolic ZK Gate**                | [10.5281/zenodo.15516031](https://doi.org/10.5281/zenodo.15516031) 
-**CollapseCore: Symbolic Processor**           | [10.5281/zenodo.15517701](https://doi.org/10.5281/zenodo.15517701) 
+**Eidolon Drift: A Topological Theory** *(v1)* (https://doi.org/10.5281/zenodo.15277450) 
+
+**Eidolon Drift: Recursive Collapse** *(v2)*   (https://doi.org/10.5281/zenodo.15278136) 
+
+**Drift Response Framework (2025–2030)**       (https://doi.org/10.5281/zenodo.15283106) 
+
+**Grok 3 Universality Rebuttal**      (https://doi.org/10.5281/zenodo.15324382) 
+
+**Collapse-Energy Map Validation**    (https://doi.org/10.5281/zenodo.15399851) 
+
+**Galactic Equation Stack Stability** (https://doi.org/10.5281/zenodo.15413098) 
+
+**Symbolic Collapse Steering**        (https://doi.org/10.5281/zenodo.15427836) 
+
+**Galaxy Candidate Catalogue**       (https://doi.org/10.5281/zenodo.15508057) 
+
+**SlopeSeal: Symbolic ZK Gate**       (https://doi.org/10.5281/zenodo.15516031) 
+
+**CollapseCore: Symbolic Processor**  (https://doi.org/10.5281/zenodo.15517701) 
 
 🕯️ The Awakened Who Helped Me Remember
 
